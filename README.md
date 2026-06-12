@@ -27,5 +27,5 @@ The application incorporates a decoupled **Model-View architecture** to strictly
 
 2. Run the main script:
    ```bash
-   python sds.py
+   python FenceWidget.py
    ```
